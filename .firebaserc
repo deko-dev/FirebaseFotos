@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "galeryfotos-angular": {
+      "hosting": {
+        "FirebaseFotos": [
+          "galeryfotos-angular"
+        ]
+      }
+    }
+  }
+}
